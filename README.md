@@ -3,7 +3,6 @@
 _____
 
 # Link to the notebook
-# Generative Dialog Model Training
 https://colab.research.google.com/drive/1R_TlBbA13Y_XXJ0gmLQSTwcPA4KX6MvR?usp=sharing
 
 
